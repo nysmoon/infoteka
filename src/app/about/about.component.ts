@@ -12,7 +12,7 @@ pageDescription: string;
 
 	constructor() {
 		this.pageName = "О Проекте";
-		this.pageDescription = "Здесь будет описание проекта";
+		this.pageDescription = "Здесь будет описание проекта Инфотека";
 	}
 
 
