@@ -2,3 +2,14 @@
 
 /* ---=== Navigation ===--- */
 
+.section-dark {
+	background-color: #f48148;
+}
+
+.card-avatar {
+	border: 5px solid #8a4c2f;
+}
+
+.card-avatar:hover {
+	border: 5px solid #5e3421;
+}
